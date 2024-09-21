@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/counter.tsx","./src/components/decrement.tsx","./src/components/increment.tsx","./src/context/counterprovider.tsx"],"version":"5.6.2"}
